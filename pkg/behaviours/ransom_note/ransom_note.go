@@ -6,8 +6,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"./pkg/sergeant"
-	"./pkg/utils/userinfo"
+	"github.com/ezra451/exercise-firedrill/pkg/sergeant"
+	"github.com/ezra451/exercise-firedrill/pkg/utils/userinfo"
 	"go.uber.org/zap"
 )
 
