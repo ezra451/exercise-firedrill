@@ -3,10 +3,10 @@ package main
 import (
 	"context"
 
-	"./pkg/behaviours/ransom_encrypt"
-	"./pkg/behaviours/ransom_note"
-	"./pkg/behaviours/ransom_wallpaper"
-	"./pkg/sergeant"
+	"github.com/ezra451/exercise-firedrill/pkg/behaviours/ransom_encrypt"
+	"github.com/ezra451/exercise-firedrill/pkg/behaviours/ransom_note"
+	"github.com/ezra451/exercise-firedrill/pkg/behaviours/ransom_wallpaper"
+	"github.com/ezra451/exercise-firedrill/pkg/sergeant"
 	"go.uber.org/zap"
 )
 
