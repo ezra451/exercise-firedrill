@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"runtime"
 
-	"./pkg/sergeant"
-	"./pkg/utils/winwallpaper"
+	"github.com/ezra451/exercise-firedrill/pkg/sergeant"
+	"github.com/ezra451/exercise-firedrill/pkg/utils/winwallpaper"
 	"go.uber.org/zap"
 )
 
