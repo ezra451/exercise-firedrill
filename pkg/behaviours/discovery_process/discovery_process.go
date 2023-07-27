@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	"./pkg/sergeant"
+	"github.com/ezra451/exercise-firedrill/pkg/sergeant"
 	"github.com/shirou/gopsutil/v3/process"
 	"go.uber.org/zap"
 )
