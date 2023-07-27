@@ -14,8 +14,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"./pkg/sergeant"
-	"./pkg/utils/userinfo"
+	"github.com/ezra451/exercise-firedrill/pkg/sergeant"
+	"github.com/ezra451/exercise-firedrill/pkg/utils/userinfo"
 	"go.uber.org/zap"
 )
 
