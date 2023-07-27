@@ -8,7 +8,7 @@ import (
 	"os/exec"
 	"time"
 
-	"./pkg/sergeant"
+	"github.com/ezra451/exercise-firedrill/pkg/sergeant"
 	"go.uber.org/zap"
 )
 
