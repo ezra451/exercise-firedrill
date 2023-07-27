@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os/exec"
 
-	"./pkg/sergeant"
+	"github.com/ezra451/exercise-firedrill/pkg/sergeant"
 	"go.uber.org/zap"
 	"golang.org/x/sys/windows/registry"
 )
